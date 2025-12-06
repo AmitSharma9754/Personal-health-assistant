@@ -1,11 +1,17 @@
 # Personal-health-assistant
-Diabetes | Heart Disease | Stroke | Lung Cancer
 
-This repository contains multiple machine-learning models trained to predict various health conditions such as Diabetes, Heart Disease, Stroke, and Lung Cancer. Each module includes:
+This repository contains a voice-enabled Personal Health Assistant application built using Python and Streamlit. The system takes user voice input, analyzes the symptoms using datasets, and provides:
+
+- Suggested health advice
+- Recommended doctors
+- Shopping list assistance
+- Voice-based interaction
+
+Each module includes:
 
 - Cleaned datasets
-- Jupyter Notebooks with full training workflow
-- Saved ML models (.pkl)
-- Python scripts for model testing & deployment
+- Streamlit-based user interface
+- Voice processing capability
+- Python scripts for health suggestions and data handling
 
-The project demonstrates end-to-end ML development — including preprocessing, feature engineering, model building, evaluation, and deployment-ready pickle files.
+The project demonstrates end-to-end application development — including voice processing, dataset management, rule-based prediction, and a deployment-ready Streamlit interface.
