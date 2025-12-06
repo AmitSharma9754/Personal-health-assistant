@@ -31,8 +31,6 @@ Personal-health-assistant/
 │── shoperslist.csv      # Shopping transaction history
 └── requirements.txt     # Python dependencies
 
-
-
 ### Technology Stack
 
 | Component          | Technology                          |
@@ -49,7 +47,6 @@ git clone https://github.com/AmitSharma9754/Personal-health-assistant.git
 cd Personal-health-assistant
 pip install -r requirements.txt
 streamlit run app.py
-
 
 **Access URL**: `http://localhost:8501`  
 **Browser Requirements**: Microphone permissions required for voice functionality
