@@ -1,0 +1,81 @@
+Disease,Medicines,Yoga,Diet,Advice
+Cold,"Paracetamol, Antihistamines","Anulom Vilom, Bhastrika","Warm soups, citrus fruits","Stay hydrated, rest well"
+Fever,Paracetamol,Shavasana,"Light, easily digestible foods","Monitor temperature, see a doctor if >102Â°F"
+Cough,Cough syrup (expectorant),Pranayama,"Warm fluids, honey with lukewarm water",Avoid cold drinks
+Flu,Antiviral drugs if prescribed,"Kapalbhati, Bhramari",Vitamin C-rich foods,Rest and avoid contact with others
+Asthma,Inhaled bronchodilators,Anulom Vilom,"Avoid allergens, eat omega-3 rich foods",Carry inhaler always
+Pneumonia,Antibiotics,Restorative yoga,Nutritious soft foods,Complete full antibiotic course
+Tuberculosis,Anti-TB drugs,Pranayama,High protein diet,6-month strict medication
+COVID-19,"Paracetamol, supportive care",Light stretching,Immune boosting foods,Isolate and monitor symptoms
+Sinusitis,Decongestants,"Jal Neti, Anulom Vilom",Warm fluids,Steam inhalation daily
+Bronchitis,"Bronchodilators, cough syrup",Anulom Vilom,Warm fluids,Avoid smoking
+Diabetes Type 2,"Metformin, Insulin if needed",Trikonasana,"Low sugar, high fiber diet",Check blood sugar regularly
+Hypertension,"ACE inhibitors, Beta blockers","Shavasana, Anulom Vilom",Low salt diet,Regular BP monitoring
+High Cholesterol,Statins,Bhujangasana,"Oats, nuts, avoid fried food",Regular exercise
+Obesity,"Lifestyle modification, Orlistat",Surya Namaskar,Low-calorie balanced diet,Daily exercise
+Hypothyroidism,Levothyroxine,Sarvangasana,Iodine-rich foods,Take medicine on empty stomach
+Hyperthyroidism,Antithyroid drugs,Shavasana,Avoid excess iodine,Regular thyroid tests
+Vitamin D Deficiency,Vitamin D supplements,Surya Namaskar,"Milk, eggs, sunlight",Check vitamin levels
+Vitamin B12 Deficiency,B12 injections/tablets,Tadasana,"Meat, dairy, fortified cereals",Monitor blood tests
+Anemia,Iron supplements,Pranayama,"Green leafy vegetables, jaggery",Avoid tea/coffee after meals
+Gout,Allopurinol,Vrikshasana,"Avoid red meat, alcohol",Stay hydrated
+Gastritis,"Antacids, PPIs",Vajrasana,"Soft, non-spicy foods",Eat small meals
+GERD,"PPIs, Antacids",Vajrasana,"Avoid coffee, citrus",Elevate head while sleeping
+Constipation,Laxatives,Pawanmuktasana,High fiber diet,Drink plenty of water
+Diarrhea,"ORS, probiotics",No yoga during acute phase,"Bananas, rice, applesauce, toast",Avoid street food
+Fatty Liver,Lifestyle modification,Bhujangasana,"Low fat, high fiber diet",Avoid alcohol
+Hepatitis A,Supportive care,Light stretching,"Soft, bland foods",Rest and avoid alcohol
+Hepatitis B,Antiviral drugs if needed,Pranayama,Balanced diet,Regular liver function tests
+Hepatitis C,Antiviral medication,Pranayama,Protein-rich diet,Avoid alcohol
+Peptic Ulcer,"Antacids, antibiotics (if H. pylori)",Vajrasana,"Non-spicy, soft food",Avoid NSAIDs
+Irritable Bowel Syndrome,Antispasmodics,"Vajrasana, Meditation",Low FODMAP diet,Stress management
+Eczema,Topical corticosteroids,Meditation,"Avoid allergens, eat anti-inflammatory foods",Moisturize skin
+Psoriasis,"Topical ointments, Methotrexate",Meditation,Omega-3 rich diet,Avoid triggers
+Acne,"Topical retinoids, antibiotics",Pranayama,"Low sugar, avoid dairy",Wash face twice daily
+Urticaria,Antihistamines,Deep breathing,Avoid allergens,Identify trigger foods
+Fungal Infection,Antifungal creams,Breathing exercises,Avoid excess sugar,Keep skin dry
+Vitiligo,"Topical steroids, phototherapy",Meditation,Balanced diet,Avoid stress
+Sunburn,"Aloe vera gel, soothing creams",Restorative yoga,Hydrating foods,Avoid direct sun
+Ringworm,Antifungal creams,Light yoga,Avoid sharing clothes,Maintain hygiene
+Scabies,Permethrin cream,No yoga until treated,Balanced diet,Wash bedding & clothes
+Dandruff,Anti-dandruff shampoo,Pranayama,Omega-3 rich foods,Avoid hair products with alcohol
+Migraine,"Pain relievers, Triptans",Shavasana,Magnesium-rich foods,Avoid loud noises
+Epilepsy,Antiepileptic drugs,Gentle yoga,Balanced diet,Avoid triggers like flashing lights
+Parkinson's Disease,Levodopa,Tadasana,Antioxidant-rich foods,Regular exercise
+Alzheimer's Disease,Cholinesterase inhibitors,Meditation,"Leafy greens, nuts",Mental stimulation
+Stroke Recovery,"Blood thinners, physiotherapy",Gentle stretching,Low salt diet,Regular rehab exercises
+Multiple Sclerosis,Immunomodulators,Gentle yoga,Vitamin D rich foods,Avoid overheating
+Depression,Antidepressants,"Meditation, Yoga Nidra",Balanced diet,Therapy sessions
+Anxiety Disorder,Anxiolytics,"Pranayama, Meditation",Herbal teas,Breathing exercises daily
+Insomnia,Sleep aids if needed,Yoga Nidra,Avoid caffeine,Maintain sleep schedule
+Bipolar Disorder,Mood stabilizers,Meditation,Balanced diet,Therapy sessions
+Heart Failure,"Diuretics, ACE inhibitors",Gentle yoga,Low sodium diet,Daily weight monitoring
+Coronary Artery Disease,"Statins, Antiplatelets",Gentle stretching,Low fat diet,Avoid stress
+Peripheral Artery Disease,Blood thinners,Walking,Low cholesterol diet,Foot care
+Varicose Veins,Compression stockings,Leg elevation yoga,High fiber diet,Avoid standing long
+Anemia (Iron Deficiency),Iron supplements,Pranayama,Green leafy vegetables,Avoid tea after meals
+Leukemia (Chronic),Chemotherapy,Gentle yoga,Protein-rich diet,Regular blood tests
+Thalassemia,Blood transfusions,Gentle yoga,Folic acid-rich diet,Avoid iron overload
+Hemophilia,Clotting factor replacement,Light stretching,Balanced diet,Avoid injury
+Sickle Cell Disease,"Pain relievers, Hydroxyurea",Gentle yoga,High fluid intake,Avoid cold exposure
+Deep Vein Thrombosis,Anticoagulants,Leg exercises,Balanced diet,Avoid sitting long hours
+no disease,Doctor prescribed treatment,Light yoga,Balanced diet,Do time to time checkup and do not junkk food
+Malaria,"Use prescribed antimalarials (e.g., ACTs) and paracetamol for fever; consult a doctor immediately","Gentle breathing (Anulom Vilom, Bhramari) and restorative poses after fever subsides","Hydrating, easily digestible foods like khichdi, soups, fruits, vegetables; avoid oily/heavy foods","Rest well, monitor symptoms closely, and seek emergency care if severe symptoms appear"
+Dengue,No specific antiviral; use paracetamol for fever/pain (avoid NSAIDs like ibuprofen/aspirin),Gentle breathing and restorative poses after fever subsides; avoid strenuous asanas,"Hydrating with water, coconut water, clear soups, fruits; avoid oily, spicy, and heavy foods","Rest, monitor platelet count, stay hydrated, and seek medical care if bleeding or severe symptoms occur"
+Typhoid,"Use prescribed antibiotics (e.g., cefixime, azithromycin)",Gentle breathing and light stretching after fever,"Soft, easily digestible foods like khichdi, soups, and boiled vegetables","Rest well, maintain hydration, avoid raw food, and follow doctor’s instructions"
+Chickenpox,Paracetamol for fever and antihistamines for itching (avoid aspirin),Gentle breathing and light stretching after rashes reduce,"Hydrating fluids, soft foods, fruits; avoid oily/spicy foods","Rest, avoid scratching, keep skin clean, and isolate to prevent spreading"
+Cholera,"Oral rehydration salts (ORS), antibiotics if severe",Gentle breathing after rehydration,"Hydrating fluids, soft easily digestible foods","Maintain hydration, avoid contaminated food/water"
+Jaundice,Depends on cause; supportive care,Gentle breathing and light stretching,"Easily digestible foods, avoid fatty/heavy foods","Rest, avoid alcohol and hepatotoxic substances, monitor liver function"
+Sore Throat,"Paracetamol, lozenges, antibiotics if bacterial",Gentle pranayama,"Soft, warm foods, soups, herbal teas","Stay hydrated, avoid irritants, rest voice"
+Ear Infection,"Painkillers, antibiotics if bacterial",Light neck stretches,"Soft, non-spicy foods","Keep ears dry, avoid inserting objects, see doctor if severe"
+Tooth Decay,"Painkillers, dental treatment (fillings, fluoride)",Jaw relaxation exercises,"Soft foods, avoid sugary snacks","Maintain oral hygiene, regular dental checkups"
+Red Eye,"Lubricating eye drops, antibiotics if bacterial","Eye palming, blinking exercises",Hydrating fluids,"Avoid rubbing eyes, maintain hygiene"
+Skin Rash,"Antihistamines, topical creams",Gentle stretching,"Hydrating, bland foods","Avoid scratching, identify triggers"
+Fungal Infection,Antifungal creams/oral antifungals,Gentle stretching,Balanced diet,Keep affected area clean and dry
+Food Poisoning,"ORS, antibiotics if bacterial",Gentle breathing after recovery,"Hydrating fluids, bland diet","Rest, avoid contaminated food, maintain hygiene"
+Back Pain,"Painkillers, anti-inflammatories","Gentle stretching, cat-cow, child pose","Light, balanced diet","Maintain posture, avoid heavy lifting"
+Sunburn,"Aloe vera gel, painkillers",Gentle stretching,"Hydrating fluids, antioxidant-rich foods","Avoid further sun exposure, wear protective clothing"
+Allergies,"Antihistamines, nasal sprays",Breathing exercises,Avoid allergen-trigger foods,"Avoid triggers, keep environment clean"
+Diarrhea,"ORS, antibiotics if bacterial",Gentle breathing,"Hydrating fluids, soft bland foods","Maintain hygiene, avoid spicy/contaminated food"
+Cold Sores,Antiviral creams/tablets,Relaxation breathing,"Soft, non-acidic foods","Avoid touching sores, maintain hygiene"
+Cough & Cold,"Paracetamol, cough syrup, decongestants",Gentle breathing,"Warm fluids, soups, soft foods","Rest, stay hydrated, avoid irritants"

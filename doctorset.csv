@@ -1,0 +1,82 @@
+Disease,Doctor Name,Address,Contact,Fees
+Cold,Dr. Himanshu Jain," Ghouriya Complex, Baradari Chauraha, Morar, Gwalior",9630619989,500
+Fever,Dr. Himanshu Jain," Ghouriya Complex, Baradari Chauraha, Morar, Gwalior",9630619989,500
+Cough,Dr. Himanshu Jain," Ghouriya Complex, Baradari Chauraha, Morar, Gwalior",9630619989,500
+Flu,Dr. Himanshu Jain," Ghouriya Complex, Baradari Chauraha, Morar, Gwalior",9630619989,500
+Asthma,Dr. Dharmendra Kumar Sharma,"
+Gwalior Chest Asthma and Allergy Clinic, PLAZA,madhav dispensary road Lashkar",0751-2977777,700
+Pneumonia,Dr. Ujjwal Sharma,"Kushwah Hospital, Opp. Maharaja Complex, Deendayal Nagar, Gwalior",0751-2970100,400
+Tuberculosis,Dr. Ujjwal Sharma,"Kushwah Hospital, Opp. Maharaja Complex, Deendayal Nagar, Gwalior",0751-2970100,400
+COVID-19,Dr. Manoj Kumar,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,600
+Sinusitis,Dr. Ravindra Bansal,"Global Speciality Hospital, Gandhi Road, Thatipur, Gwalior",0751-4011600,600
+Bronchitis,Dr. Ravi Shanker Dalmia,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,500
+Diabetes Type 2,Dr. Pankaj Gupta,"Kushwah Hospital, Opp. Maharaja Complex, Deendayal Nagar, Gwalior",0751-2970100,500
+Hypertension,Dr. Ravi Shanker Dalmia,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,600
+High Cholesterol,Dr. Ravi Shanker Dalmia,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,600
+Obesity,Dr. Pankaj Gupta,"Kushwah Hospital, Opp. Maharaja Complex, Deendayal Nagar, Gwalior",0751-2970100,500
+Hypothyroidism,Dr. Pankaj Gupta,"Kushwah Hospital, Opp. Maharaja Complex, Deendayal Nagar, Gwalior",0751-2970100,500
+Hyperthyroidism,Dr. Pankaj Gupta,"Kushwah Hospital, Opp. Maharaja Complex, Deendayal Nagar, Gwalior",0751-2970100,500
+Vitamin D Deficiency,Dr. Manoj Kumar,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,600
+Vitamin B12 Deficiency,Dr. Manoj Kumar,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,600
+Anemia,Dr. Pritesh Jain,"Global Speciality Hospital, Gandhi Road, Thatipur, Gwalior",0751-4011600,800
+Gout,Dr. Himanshu Kushwah,"Kalyan Memorial & KDJ Hospital, Morar, Gwalior",0751-2467000,300
+Gastritis,Dr. Manoj Kumar,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,600
+GERD,Dr. Manoj Kumar,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,600
+Constipation,Dr. Manoj Kumar,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,600
+Diarrhea,Dr. Manoj Kumar,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,600
+Fatty Liver,Dr. Ramakant Rawat,"Parivar Hospital , Cancer Hospital Road Near Mandre Wali Mata Dussera Garden, Gwalior",0751-2977777,800
+Hepatitis A,Dr. Manoj Kumar,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,600
+Hepatitis B,Dr. Manoj Kumar,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,600
+Hepatitis C,Dr. Manoj Kumar,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,600
+Peptic Ulcer,Dr. Manoj Kumar,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,600
+Irritable Bowel Syndrome,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalio",1860 500 1066,400
+Eczema,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalior",1860 500 1066,400
+Psoriasis,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalior",1860 500 1066,400
+Acne,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalior",1860 500 1066,400
+Urticaria,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalior",1860 500 1066,400
+Fungal Infection,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalior",1860 500 1066,400
+Vitiligo,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalior",1860 500 1066,400
+Sunburn,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalior",1860 500 1066,400
+Ringworm,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalior",1860 500 1066,400
+Scabies,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalior",1860 500 1066,400
+Dandruff,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalior",1860 500 1066,400
+Migraine,Dr. Alok Dixit,"Gwalior Heart and Women’s Hospital, Lashkar, Gwalior",0751-2323824,500
+Epilepsy,Dr. Alok Dixit,"Gwalior Heart and Women’s Hospital, Lashkar, Gwalior",0751-2323824,500
+Parkinson's Disease,Dr. Alok Dixit,"Gwalior Heart and Women’s Hospital, Lashkar, Gwalior",0751-2323824,500
+Alzheimer's Disease,Dr. Alok Dixit,"Gwalior Heart and Women’s Hospital, Lashkar, Gwalior",0751-2323824,500
+Stroke Recovery,Dr. Alok Dixit,"Gwalior Heart and Women’s Hospital, Lashkar, Gwalior",0751-2323824,500
+Multiple Sclerosis,Dr. Alok Dixit,"Gwalior Heart and Women’s Hospital, Lashkar, Gwalior",0751-2323824,500
+Depression,Dr. Alok Dixit,"Gwalior Heart and Women’s Hospital, Lashkar, Gwalior",0751-2323824,500
+Anxiety Disorder,Dr. Alok Dixit,"Gwalior Heart and Women’s Hospital, Lashkar, Gwalior",0751-2323824,500
+Insomnia,Dr. Alok Dixit,"Gwalior Heart and Women’s Hospital, Lashkar, Gwalior",0751-2323824,500
+Bipolar Disorder,Dr. Ravi Shanker Dalmia,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,400
+Heart Failure,Dr. Ashish Chauhan,"13 Gound Floor M.k. Plaza, Hospital Rd, Near Madhav Dispensary, Lashkar",0751-2977777,900
+Coronary Artery Disease,Dr. Ashish Chauhan,"13 Gound Floor M.k. Plaza, Hospital Rd, Near Madhav Dispensary, Lashkar",0751-2977777,900
+Peripheral Artery Disease,Dr. Himanshu Kushwah,"Kalyan Memorial & KDJ Hospital, Morar, Gwalior",0751-2467000,300
+Varicose Veins,Dr. Pritesh Jain,"Global Speciality Hospital, Gandhi Road, Thatipur, Gwalior",0751-4011600,500
+Anemia (Iron Deficiency),Dr. Pritesh Jain,"Global Speciality Hospital, Gandhi Road, Thatipur, Gwalior",0751-4011600,500
+Leukemia (Chronic),Dr. Pritesh Jain,"Global Speciality Hospital, Gandhi Road, Thatipur, Gwalior",0751-4011600,500
+Thalassemia,Dr. Pritesh Jain,"Global Speciality Hospital, Gandhi Road, Thatipur, Gwalior",0751-4011600,500
+Hemophilia,Dr. Pritesh Jain,"Global Speciality Hospital, Gandhi Road, Thatipur, Gwalior",0751-4011600,500
+Sickle Cell Disease,Dr. Himanshu Kushwah,"Kalyan Memorial & KDJ Hospital, Morar, Gwalior",0751-2467000,300
+Deep Vein Thrombosis,Dr. Manoj Kumar,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,600
+no disease,,,,
+Malaria,Dr. Himanshu Jain,"Ghouriya Complex, Baradari Chauraha, Morar, Gwalior",9630619989,500
+Dengue,Dr. Himanshu Jain," Ghouriya Complex, Baradari Chauraha, Morar, Gwalior",9630619989,500
+Typhoid,Dr. Himanshu Jain," Ghouriya Complex, Baradari Chauraha, Morar, Gwalior",9630619989,500
+Chickenpox,Dr. Himanshu Jain," Ghouriya Complex, Baradari Chauraha, Morar, Gwalior",9630619989,500
+Cholera,Dr. Ravindra Bansal,"Global Speciality Hospital, Gandhi Road, Thatipur, Gwalior",0751-4011600,400
+Jaundice,Dr. Neelam Saxena,"Mansi Hospital, Lashkar, Gwalior",0751-2230001,400
+Sore Throat,Dr. Neelam Saxena,"Mansi Hospital, Lashkar, Gwalior",0751-2230001,400
+Ear Infection,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalior",1860 500 1066,400
+Tooth Decay,Dr. Manoj Kumar,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-2977777,600
+Red Eye,Dr. Himanshu Kushwah,"Kalyan Memorial & KDJ Hospital, Morar, Gwalior",0751-2467000,300
+Skin Rash,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalior",1860 500 1066,500
+Food Poisoning,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalior",1860 500 1066,400
+Back Pain,Dr. Ravindra Bansal,"Global Speciality Hospital, Gandhi Road, Thatipur, Gwalior",0751-4011600,400
+Allergies,Dr. Himanshu Jain," Ghouriya Complex, Baradari Chauraha, Morar, Gwalior",9630619989,500
+Cold Sores,Dr. Neelam Saxena,"Apollo Spectra Hospital, Vikas Nagar, Gwalior",0751-4011600,300
+Cough & Cold,Dr. Himanshu Jain," Ghouriya Complex, Baradari Chauraha, Morar, Gwalior",9630619989,500
+Diarrhea,Dr. Manoj Kumar,"Kushwah Hospital, Opp. Maharaja Complex, Deendayal Nagar, Gwalior",0751-4011600,600
+Sunburn,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalior",1860 500 1066,400
+Fungal Infection,Dr. Khozema Saify,"Janak Hospital, Thatipur, Gwalior",1860 500 1066,400
