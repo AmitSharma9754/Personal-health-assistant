@@ -23,6 +23,7 @@ This application provides general health information for over 50 medical conditi
 ## Technical Implementation
 
 ### System Architecture
+
 Personal-health-assistant/
 ├── app.py # Primary Streamlit application
 ├── dataset.csv # Medical condition database
@@ -30,19 +31,19 @@ Personal-health-assistant/
 ├── shoperslist.csv # Shopping transaction records
 └── requirements.txt # Python dependencies
 
+
 ### Technology Stack
 
-| Component | Technology |
-|-----------|------------|
-| Frontend Framework | Streamlit with custom CSS |
-| Voice Processing | streamlit-micrecorder, pyttsx3 |
-| Data Processing | pandas for CSV operations |
-| Storage | Local file system (CSV format) |
-| Deployment | Streamlit Cloud / GitHub Pages |
+| Component          | Technology                          |
+|--------------------|-------------------------------------|
+| Frontend Framework | Streamlit with custom CSS           |
+| Voice Processing   | streamlit-micrecorder, pyttsx3      |
+| Data Processing    | pandas for CSV operations           |
+| Storage            | Local file system (CSV format)      |
+| Deployment         | Streamlit Cloud / GitHub Pages      |
 
 ## Deployment Instructions
 
-Prerequisites: Python 3.8+
 git clone https://github.com/AmitSharma9754/Personal-health-assistant.git
 cd Personal-health-assistant
 pip install -r requirements.txt
