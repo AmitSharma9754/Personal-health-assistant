@@ -61,10 +61,8 @@ Personal_Health_Assistant/
 👉 https://github.com/AmitSharma9754/Personal-health-assistant  
 
 **Clone using Git:**  
-```bash
 git clone https://github.com/AmitSharma9754/Personal-health-assistant.git
 cd Personal-health-assistant
-```
 
 
 ### 2️⃣ Install dependencies  
@@ -73,7 +71,7 @@ pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run the App  
-```
+```bash
 ```
 streamlit run app.py
 ```
