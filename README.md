@@ -143,10 +143,13 @@ Personal_Health_Assistant/
 ## 🖼 Screenshots
 
 ### 🔹 Home Page  
-![Homepage](https://github.com/user-attachments/assets/625ec8fe-6071-4049-a71b-5d713b7577e4)
+![Homepage](https://github.com/user-attachments/assets/1128cdd7-e2ca-42ec-9222-a3a600f2031b)
 
 ### 🔹 Health Advice Form  
-![DiabetesRisk](https://github.com/user-attachments/assets/856d169e-2e29-4147-a326-1d9f59c3946e)
+![HealthAdvice](https://github.com/user-attachments/assets/155cabd7-85d8-4782-b7b5-0ff5937bb593)
+
+### 🔹 Doctor Recommendation  
+![DoctorRecommendation](https://github.com/user-attachments/assets/62e6a5da-6745-4048-8390-7999ee727e9b)
 
 
 ---
