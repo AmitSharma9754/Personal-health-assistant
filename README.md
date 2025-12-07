@@ -56,19 +56,25 @@ Personal_Health_Assistant/
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the repository  
+
+**Repository Link:**  
+👉 https://github.com/AmitSharma9754/Personal-health-assistant  
+
+**Clone using Git:**  
 ```bash
-git clone https://github.com/your-username/Personal_Health_Assistant.git
-cd Personal_Health_Assistant
+git clone https://github.com/AmitSharma9754/Personal-health-assistant.git
+cd Personal-health-assistant
 ```
 
+
 ### 2️⃣ Install dependencies  
-```bash
+```
 pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run the App  
 ```
-```bash
+```
 streamlit run app.py
 ```
 
@@ -136,12 +142,11 @@ Personal_Health_Assistant/
 ## 🖼 Screenshots
 
 ### 🔹 Home Page  
-![Homepage](<img width="1920" height="1075" alt="Screenshot 2025-12-07 110817" src="https://github.com/user-attachments/assets/625ec8fe-6071-4049-a71b-5d713b7577e4" />
-)
+![Homepage](https://github.com/user-attachments/assets/625ec8fe-6071-4049-a71b-5d713b7577e4)
 
 ### 🔹 Health Advice Form  
-![DiabetesRisk](<img width="1920" height="1083" alt="Screenshot 2025-12-07 110832" src="https://github.com/user-attachments/assets/856d169e-2e29-4147-a326-1d9f59c3946e" />
-)
+![DiabetesRisk](https://github.com/user-attachments/assets/856d169e-2e29-4147-a326-1d9f59c3946e)
+
 
 ---
 
