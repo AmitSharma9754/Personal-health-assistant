@@ -1,4 +1,4 @@
-# 🩺 Personal Health Assistant  
+#  Personal Health Assistant  
 *A Voice-Enabled Smart Healthcare Support System*
 
 This project is a **Streamlit-based Personal Health Assistant** that provides:  
@@ -13,21 +13,21 @@ The system uses **voice recognition**, **CSV datasets**, and **real-time UI comp
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🎤 **Voice-enabled input** (Name, Age, Disease)  
-- 🧠 **Personalized health advice** from dataset  
-- 🥼 **Doctor recommendations** by disease  
-- 🛒 **Shop & Order medical products**  
-- 📦 Saves order history locally  
-- 📂 Patient data stored in CSV  
-- 🤣 Jokes, riddles & creativity section  
-- 🎨 Beautiful UI with gradient theme  
-- 🔒 No cloud data — **fully offline privacy**
+-  **Voice-enabled input** (Name, Age, Disease)  
+-  **Personalized health advice** from dataset  
+-  **Doctor recommendations** by disease  
+-  **Shop & Order medical products**  
+-  Saves order history locally  
+-  Patient data stored in CSV  
+-  Jokes, riddles & creativity section  
+-  Beautiful UI with gradient theme  
+-  No cloud data — **fully offline privacy**
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Personal_Health_Assistant/
@@ -53,7 +53,7 @@ Personal_Health_Assistant/
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 ### 1️⃣ Clone the repository  
 
@@ -81,7 +81,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Features & Modules
+##  Features & Modules
 
 | Module / Section     | Description |
 |----------------------|-------------|
@@ -95,7 +95,7 @@ streamlit run app.py
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 - Python  
 - Streamlit  
 - Pandas  
@@ -105,7 +105,7 @@ streamlit run app.py
 
 ---
 
-## 🧭 How to Use
+##  How to Use
 
 1️⃣ Enter or Speak:
 - Name  
@@ -125,7 +125,7 @@ You will receive:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Personal_Health_Assistant/
@@ -140,7 +140,7 @@ Personal_Health_Assistant/
 
 ---
 
-## 🖼 Screenshots
+##  Screenshots
 
 ### 🔹 Home Page  
 ![Homepage](https://github.com/user-attachments/assets/1128cdd7-e2ca-42ec-9222-a3a600f2031b)
@@ -154,7 +154,7 @@ Personal_Health_Assistant/
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This application is created **strictly for educational and informational purposes only**.  
 It is **NOT a medical device** and does **NOT** provide professional medical diagnosis, treatment, or prescriptions.
@@ -167,7 +167,7 @@ The developer is **not responsible** for any decisions made based on this applic
 
 ---
 
-## ⭐ Contribution
+##  Contribution
 
 You can contribute by:
 - Adding new diseases  
@@ -179,8 +179,8 @@ Pull requests are welcome!
 
 ---
 
-## 📧 Contact
+##  Contact
 
 **Amit Sharma**   
 📩 Email: Amitsharma97545@gmail.com  
-🐙 GitHub: https://github.com/AmitSharma9754/Personal-health-assistant
+🐙 GitHub: [https://github.com/AmitSharma9754/Personal-health-assistant](https://github.com/AmitSharma9754)
